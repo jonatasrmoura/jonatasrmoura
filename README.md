@@ -1,4 +1,4 @@
-## Hi! I'm Jonatas and I'm passionate about technology and programming ❤️
+## Hi! I'm Jonatas and I'm passionate about technology and programming
 
 
 - 🔭 I'm currently working on fictional and freelance projects

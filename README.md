@@ -18,4 +18,5 @@ Atuo na construção de ecossistemas digitais de alta performance e arquiteturas
 ### 📬 Como me encontrar
 - 🌐 [LinkedIn](https://www.linkedin.com/in/jonatas-rosa-moura-235574193/)
 - 🏆 [Vertex Software](https://www.vertexsoftware.com.br/)
+- ✉️ jonatas@vertexsoftware.com.br
 - ✉️ jonatas.rmoura@outlook.com

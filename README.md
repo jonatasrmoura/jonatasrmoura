@@ -11,7 +11,7 @@ Atuo na construção de ecossistemas digitais de alta performance e arquiteturas
 - **Boas Práticas:** Core Web Vitals (Lighthouse 100), Testes (Vitest), Clean Architecture
 
 ### 📊 Status Atual
-- 💻 Tech Lead & Founder na **Vertex Software** (Desde 2022)
+- 💻 Desenvolvedor Full Stack na **Vertex Software** (Desde 2022)
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas (Anhembi Morumbi)
 - 🌱 Aprofundando estudos em arquiteturas de microserviços e alta disponibilidade.
 
